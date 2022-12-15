@@ -1,5 +1,4 @@
 
-@@ -0,0 +1,106 @@
 # Introduction
 The current traditional financial methods are too limited to offer needed solutions to current systemic problems like global warming. Hence, the increasing integration and incentivization of environmental, social, and governance (ESG) measures in financial decisions is a step in the right direction. This ideal is what ReFi and the Celo blockchain platform represent.
 
